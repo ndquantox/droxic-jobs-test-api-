@@ -53,4 +53,4 @@ Set postgresql database settings in .env
 # Docker
 
 - `docker-compose up -d` - Build docker containers for NestJS and Postgresql (Test api with `http://localhost:3000/jobs` in your favourite browser)
-- `docker-compose` - Remove docker containers
+- `docker-compose down` - Remove docker containers
