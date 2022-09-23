@@ -17,7 +17,7 @@ Clone the repository
 
 Switch to the repo folder
 
-    cd droxic-jobs-test-api
+    cd droxic-jobs-test-api-
     
 Install dependencies
     
